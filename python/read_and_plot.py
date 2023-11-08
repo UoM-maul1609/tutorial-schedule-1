@@ -12,7 +12,7 @@ def IWC_extinction(P,extinction):
    return 10**(P[1])*extinction**P[0]
 
 
-fp = open('./data/AustralianCirrusClouds.csv','r')
+fp = open('../data/AustralianCirrusClouds.csv','r')
 
 
 data=fp.readlines()
@@ -42,7 +42,7 @@ for i in range(length_array):
 
 plt.plot(np.log10(extinction), np.log10(ice_water), '.' ) 
 
-plt.savefig('output/myplot.png')
+plt.savefig('../output/myplot.png')
 
 
 # filter the data for bad datapoints
@@ -72,7 +72,7 @@ plt.text(0.0002,0.010,'$IWC = ' + str(round(10**P[1],2)) + '\\times Ext^{' + str
 plt.title('A plot of data and regression curve fit')
 plt.xlabel('Extinction')
 plt.ylabel('Ice water content (g m$^{-3}$)')
-plt.savefig('output/myplot2.png')
+plt.savefig('../output/myplot2.png')
 
 # pearsons correlation coefficient
 r=cc[0][1]
@@ -91,7 +91,7 @@ else:
 
 
 # read in the martian clouds dataset
-fp = open('./data/martian_clouds.csv','r')
+fp = open('../data/martian_clouds.csv','r')
 
 
 data=fp.readlines()
@@ -125,7 +125,7 @@ plt.plot(IWC, height)
 
 plt.xlabel('Ice Water Content (g m$^{-3}$)')
 plt.ylabel('Height (m)')
-plt.savefig('./output/myplot3.png')
+plt.savefig('../output/myplot3.png')
 
 # calculate statistics of IWC
 ind,=np.where((height>=3000 ) & (height<=4000))
@@ -138,7 +138,7 @@ plt.errorbar(np.mean(IWC[ind]), np.mean(height[ind]), \
   np.std(height[ind])/np.sqrt(len(ind)), np.std(IWC[ind])/np.sqrt(len(ind)))
 
 
-plt.savefig('./output/myplot4.png')
+plt.savefig('../output/myplot4.png')
 
 
 # Ice water path (g m-2)
@@ -179,6 +179,6 @@ plt.tick_params(
     right=False,         # ticks along the top edge are off
     labelleft=False)
 plt.ylim((2000,4000))
-plt.savefig('./output/myplot5.png')
+plt.savefig('../output/myplot5.png')
 
 

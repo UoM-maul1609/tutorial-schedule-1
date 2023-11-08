@@ -6,9 +6,8 @@
 | 09 Oct    | Principles of Scientific Writing 1: Unity, Coherence     | Read *Eloquent Science*, chapters 6–8 | 
 | 16 Oct    | Tutorial     | <ul> <li> [Australian Data](data/AustralianCirrusClouds.csv). <li> [Martian Data](data/martian_clouds.csv)  <li> Analysis of Data, [in Excel](https://www.youtube.com/watch?v=yOPGm7E-iJ4) <li> [Some PDF instructions](material/practical07.pdf) </ul>| 
 | 23 Oct    | Principles of Scientific Writing 2: Concision, Precision | Read *Eloquent Science*, chapters 9–10 | 
-| 25 Sept   | Tutorial  | <ul><li>Title<li> Abstract<li> Intro<li> Data analysis <ul> <li>Plot <li> Regression<li> Correlation <li> Significance / p-value </ul> <li> Conclusion </ul> | 
 | 30 Oct    | Reading Week   | Read Eloquent Science, chapters 1-4 | 
-| 06 Nov    | Tutorial   | Presentation of stats/ data <ul> <li> Python script [here](python/read_and_plot.py) | 
+| 06 Nov   | Tutorial  | <ul><li>Title<li> Abstract<li> Intro<li> Data analysis <ul> <li>Plot <li> Regression<li> Correlation <li> Significance / p-value </ul> <li> Conclusion </ul> Presentation of stats/ data <ul> <li> Python script [here](python/read_and_plot.py) | 
 | 13 Nov    | Creating and Describing Figures and Tables, Editing Your Writing  | Read *Eloquent Science*, chapters 5, 11, 13, 21 | 
 | 20 Nov    | Tutorial   | Q/A about report | 
 | 27 Nov    | How to Deliver Potent Presentation                    | Read *Eloquent Science*, chapters 24– 26 | 
