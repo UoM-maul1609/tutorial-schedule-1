@@ -15,3 +15,23 @@
 | 11 Dec    |    | **Report submission deadline 0900 Friday 15 Dec** | 
 
 Report to be submitted to Blackboard
+
+Your tutor may specify a different structure than below.  Please follow their guidance.
+
+<ul>
+<li> Report length: Number of words ≤ 2,000 including graphs/tables and excluding references; 
+
+<li> 2-4 figures will be typical. Figures and tables within the text are encouraged, but can also appear at the end of the report.
+ 
+<li> Below is a suggested structure.
+<ul> 
+<li> Title: A clear, concise, informative, accurate, and possibly engaging title for your report
+<li> Abstract: Either a specialist or generalist abstract [200 words]
+<li> Introduction:  Background, problem statement, response to the problem statement including the purpose of the report [400–500 words]
+<li> Data and methods: [varies greatly]
+<li> Results: [600–800 words]
+<li> Discussion: [varies greatly]
+<li> Conclusions: concise summary of the main results of the report [400–500 words]
+<li> References: if any - not included in word count
+</ul>
+</ul>
