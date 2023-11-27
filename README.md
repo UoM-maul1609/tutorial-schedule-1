@@ -28,7 +28,7 @@ Your tutor may specify a different structure than below.  Please follow their gu
 <li> Title: A clear, concise, informative, accurate, and possibly engaging title for your report
 <li> Abstract: Either a specialist or generalist abstract [200 words]
 <li> Introduction:  Background, problem statement, response to the problem statement including the purpose of the report [400–500 words]
-<li> Data and methods: [varies greatly]
+<li> Data and methods: [varies greatly]. Focus on general methods, not the exact technical details of how you made a figure in Python, or Excel.
 <li> Results: [600–800 words]
 <li> Discussion: [varies greatly]
 <li> Conclusions: concise summary of the main results of the report [400–500 words]
