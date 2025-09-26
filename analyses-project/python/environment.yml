@@ -1,0 +1,13 @@
+name: student-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - netCDF4
+  - cartopy
