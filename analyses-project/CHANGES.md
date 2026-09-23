@@ -305,3 +305,40 @@ more guidance on reporting numbers and figure captions.
   bullet pointing at the new checklist, without adding a new slide or eating into that
   deck's already-tight 50-minute budget.
 - File sizes essentially unchanged; no slide counts changed in any deck.
+
+## Eighth pass
+
+Paul shared the official course structure document (`Structure.pdf`) for EART29200.
+Two things it confirmed:
+- **The 8 semester-1 tutorial dates already built (29 Sept – 1 Dec) match the
+  official schedule exactly.** No date changes needed.
+- **This is a year-long course, and semester 1 is not the end of it.** The official
+  structure has 4 more tutorials in semester 2 (8, 15, 22 Feb and 1 Mar 2027), a draft
+  report deadline around 5 February (*before* those semester-2 tutorials even start),
+  and a final submission around 12 March (*after* they finish). Per the EART29200 unit
+  description, semester 2 is built around feedback on the draft and a group
+  presentation (prepared early in semester 2, revised after feedback, then delivered).
+  Paul confirmed semester 2's content is not needed yet -- this pass only fixes
+  semester-1 materials that assumed (wrongly) that December was the final deadline.
+
+**Fixed, this pass:**
+- `Canvas_weekly_plan.md`: added an intro note stating this document covers semester 1
+  only, with the real draft (~5 Feb) and final (~12 March) dates and a one-line summary
+  of what semester 2 adds. Renamed "1 December — Final clinic" to "1 December —
+  End-of-term clinic" and rewrote its timing note, which previously said this was "the
+  last contact point before submission" -- **that was wrong**; it's the last
+  semester-1 contact point before the *draft* deadline, with 4 more tutorials still to
+  come in Feb/March before the real final submission.
+- Handbook §11 ("Tutorial roadmap"): added the same clarifying sentence (8 sessions
+  = semester 1, draft due ~5 Feb, not a final deadline; semester 2 adds 4 more
+  tutorials before the ~12 March final submission), and renamed the "Final clinic" row
+  in the roadmap table to "End-of-term clinic" to match, so the table doesn't
+  contradict the new sentence sitting right below it.
+- Nothing else needed a change: the handbook had no other submission-date claims, and
+  deck 06's "leave with a structured draft you can finish independently" framing was
+  already accurate as-is (there's a real ~10-week gap with no tutorial contact between
+  1 Dec and 8 Feb, so "finish independently" still correctly describes that gap).
+- **Not built this pass, by Paul's instruction:** the 4 semester-2 tutorials, the
+  group-presentation guidance, and the peer-feedback-on-the-draft process. Needs group
+  size, presentation length/format, and assessment weighting from Paul before that can
+  be built.

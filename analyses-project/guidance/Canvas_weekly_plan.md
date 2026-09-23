@@ -6,6 +6,16 @@ deck's speaker notes (Presenter View / Notes). Two sessions carry a real timing 
 top of the content itself — see the **Timing risk** callouts and the note at the bottom
 of this page.
 
+**This document covers semester 1 only** (the 8 tutorial dates below, confirmed
+against the official course structure): 29 Sept, 6 Oct, 13 Oct, 27 Oct, 10 Nov, 17 Nov,
+24 Nov, 1 Dec. The course (EART29200) continues into semester 2 with 4 more tutorials
+(8, 15, 22 Feb and 1 Mar) focused on feedback and a group PowerPoint presentation, plus
+a careers workshop and an EDIA workshop that aren't tutorials. The **draft report is
+due around 5 February** (before the semester-2 tutorials start) and **final submission
+is around 12 March** (after they finish) — semester 1 is building towards the draft,
+not a final deadline. Semester-2 content is planned separately and isn't in this
+package yet.
+
 ## 29 September — Project launch
 **Slides:** Tutorial 1
 **Guide:** Sections 1–4
@@ -77,11 +87,13 @@ per student and say so at the start (e.g. "~3 min each, so I can get to everyone
 back if you want longer"); triage by circulating once quickly to see who's stuck before
 doing deeper one-on-ones.
 
-## 1 December — Final clinic
+## 1 December — End-of-term clinic
 No new content. Resolve remaining scientific/figure/writing issues and revise.
-**Timing (50 min):** same triage approach as 24 November. Since this is the last contact
-point before submission, prioritise students who haven't had feedback yet over a second
-pass with students you've already helped.
+**Timing (50 min):** same triage approach as 24 November. This is the last semester-1
+contact point before the draft deadline (~5 February) — prioritise students who
+haven't had feedback yet over a second pass with students you've already helped. It is
+*not* the final submission: students get 4 more tutorials in February/March, built
+around feedback on that draft, before the actual final submission (~12 March).
 
 ---
 
