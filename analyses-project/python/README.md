@@ -40,7 +40,6 @@ To study another variable, change one line in section 0: `VARIABLE = "lcc"` (or 
 Figures you generate are your own figures, but acknowledge/cite the underlying datasets.
 
 ## Guidance
-- The illustrated student guide and the analysis tutorial slides are in `../guidance/`.
-- The writing-and-methods tutorial slides (Tutorials 1–8) and the **writing workbook** are in `../guidance/writing-strand/`.
+- The **Student Guide**, the tutorial slides (Tutorials 1–8, files `W1_…` to `W8_…`) and the **Writing Workbook** are in `../guidance/`.
 
 **Binder sessions are temporary:** download your figures, results and edited notebook before you close the tab.
